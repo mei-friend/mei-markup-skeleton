@@ -7,7 +7,8 @@
          <titleStmt>
             <title>Mondnacht am Meer</title>
             <respStmt>
-               <persName role="composer">Ludwig Baumann</persName>
+               <persName role="composer" auth="GND" auth.uri="https://d-nb.info/gnd/" codedval="117758817">Ludwig Baumann</persName>
+               <persName role="encoder" auth="GND" auth.uri="https://d-nb.info/gnd/" codedval="1229022201">Anna Plaksin</persName>
             </respStmt>
          </titleStmt>
          <pubStmt>
