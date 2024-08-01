@@ -46,36 +46,36 @@
             <zone xml:id="zone_01J46HF9ZVEA44TQ3P3061C9GT" type="measure" ulx="861" uly="1283" lrx="1341" lry="1857"/>
             <zone xml:id="zone_01J46HF9ZVANKESJ1EM8T7YGCP" type="measure" ulx="1297" uly="1296" lrx="1796" lry="1858"/>
             <zone xml:id="zone_01J46HF9ZW8GWMJF2EDMXX2DHP" type="measure" ulx="234" uly="1815" lrx="874" lry="2356"/>
-            <zone xml:id="zone_01J46HF9ZWJJ74PHN00SDJX473" type="measure" ulx="837" uly="1825" lrx="1018" lry="2364"/>
-            <zone xml:id="zone_01J46HF9ZW6JGZJZEWJGRW7QF3" type="measure" ulx="962" uly="1831" lrx="1275" lry="2368"/>
-            <zone xml:id="zone_01J46HF9ZX0RG5YDC3ARDQ42ST" type="measure" ulx="1236" uly="1833" lrx="1791" lry="2369"/>
+            <zone xml:id="zone_01J46HF9ZWJJ74PHN00SDJX473" lrx="1268" lry="2364" type="measure" ulx="837" uly="1825"/>
+            <zone xml:id="zone_01J46HF9ZW6JGZJZEWJGRW7QF3" lrx="1803" lry="2368" type="measure" ulx="1240" uly="1831"/>
          </surface>
          <surface xml:id="surface_01J46HF9ZXYY5CQ07H7R7J3J90" n="3" ulx="0" uly="0" lrx="1999" lry="2580">
             <graphic xml:id="graphic_01J46HF9ZX2RZ0YW4AZ4DJ6NAV" target="img/03.jpg" width="2000" height="2581"/>
-            <zone xml:id="zone_01J46HF9ZX1KSY792SEJ8KKWZJ" type="measure" ulx="146" uly="244" lrx="800" lry="785"/>
-            <zone xml:id="zone_01J46HF9ZYMV5A79A8DBD2FQRZ" type="measure" ulx="745" uly="247" lrx="1278" lry="784"/>
-            <zone xml:id="zone_01J46HF9ZYCCRJB2DQ4T0YS8TA" type="measure" ulx="1239" uly="240" lrx="1721" lry="770"/>
-            <zone xml:id="zone_01J46HF9ZZ5ZVBBTAXQWJSR3CW" type="measure" ulx="158" uly="772" lrx="846" lry="1313"/>
-            <zone xml:id="zone_01J46HF9ZZ5N5S9MCY0BP69SME" type="measure" ulx="801" uly="788" lrx="1009" lry="1301"/>
-            <zone xml:id="zone_01J46HF9ZZHY83H91PJXCGVTE7" type="measure" ulx="922" uly="783" lrx="1251" lry="1305"/>
-            <zone xml:id="zone_01J46HF9ZZE1DGZ4QJKYNNXCDN" type="measure" ulx="1217" uly="776" lrx="1727" lry="1317"/>
-            <zone xml:id="zone_01J46HF9ZZXXNA3Q7PV5N41TBT" type="measure" ulx="160" uly="1293" lrx="784" lry="1846"/>
-            <zone xml:id="zone_01J46HFA004WC5X7MA05PTD2K9" type="measure" ulx="747" uly="1294" lrx="1214" lry="1850"/>
-            <zone xml:id="zone_01J46HFA008978WPVVY06WV6R2" type="measure" ulx="1177" uly="1291" lrx="1713" lry="1838"/>
-            <zone xml:id="zone_01J46HFA00BH5SHJHJNN00KNMM" type="measure" ulx="157" uly="1820" lrx="788" lry="2339"/>
-            <zone xml:id="zone_01J46HFA00TB7MQR9GEZ8RHR27" type="measure" ulx="745" uly="1822" lrx="1002" lry="2342"/>
-            <zone xml:id="zone_01J46HFA00ZRAG64HV3N5V627Z" type="measure" ulx="968" uly="1823" lrx="1220" lry="2336"/>
-            <zone xml:id="zone_01J46HFA00B6DNRH8WCH43RN7N" type="measure" ulx="1187" uly="1824" lrx="1711" lry="2338"/>
+            <zone xml:id="zone_01J46HF9ZX0RG5YDC3ARDQ42ST" lrx="795" lry="761" type="measure" ulx="150" uly="239"/>
+            <zone xml:id="zone_01J46HF9ZX1KSY792SEJ8KKWZJ" lrx="1280" lry="785" type="measure" ulx="762" uly="244"/>
+            <zone xml:id="zone_01J46HF9ZYMV5A79A8DBD2FQRZ" lrx="1722" lry="784" type="measure" ulx="1249" uly="247"/>
+            <zone xml:id="zone_01J46HF9ZYCCRJB2DQ4T0YS8TA" lrx="793" lry="1296" type="measure" ulx="169" uly="794"/>
+            <zone xml:id="zone_01J46HF9ZZ5ZVBBTAXQWJSR3CW" lrx="1258" lry="1313" type="measure" ulx="810" uly="772"/>
+            <zone xml:id="zone_01J46HF9ZZ5N5S9MCY0BP69SME" lrx="1727" lry="1301" type="measure" ulx="1215" uly="788"/>
+            <zone xml:id="zone_01J46HF9ZZHY83H91PJXCGVTE7" lrx="791" lry="1819" type="measure" ulx="174" uly="1319"/>
+            <zone xml:id="zone_01J46HF9ZZE1DGZ4QJKYNNXCDN" lrx="1221" lry="1805" type="measure" ulx="739" uly="1316"/>
+            <zone xml:id="zone_01J46HF9ZZXXNA3Q7PV5N41TBT" lrx="1722" lry="1846" type="measure" ulx="1184" uly="1293"/>
+            <zone xml:id="zone_01J46HFA004WC5X7MA05PTD2K9" lrx="784" lry="2354" type="measure" ulx="169" uly="1850"/>
+            <zone xml:id="zone_01J46HFA008978WPVVY06WV6R2" lrx="1225" lry="2344" type="measure" ulx="749" uly="1855"/>
+            <zone xml:id="zone_01J46HFA00BH5SHJHJNN00KNMM" lrx="1708" lry="2339" type="measure" ulx="1195" uly="1820"/>
          </surface>
          <surface xml:id="surface_01J46HFA004AKAWPEMXRX00F1R" n="4" ulx="0" uly="0" lrx="1999" lry="2580">
             <graphic xml:id="graphic_01J46HFA01WKSKR06ZM8VR2G09" target="img/04.jpg" width="2000" height="2581"/>
-            <zone xml:id="zone_01J46HFA01HEGE47P20Y3A7K16" type="measure" ulx="227" uly="247" lrx="881" lry="806"/>
-            <zone xml:id="zone_01J46HFA01D3CZJ4468R617FET" type="measure" ulx="835" uly="229" lrx="1359" lry="803"/>
-            <zone xml:id="zone_01J46HFA01W1B3HJD857B3RWNZ" type="measure" ulx="1303" uly="231" lrx="1806" lry="796"/>
-            <zone xml:id="zone_01J46HFA02SEFT87FVCVP98R7V" type="measure" ulx="241" uly="790" lrx="820" lry="1327"/>
-            <zone xml:id="zone_01J46HFA02XBKQ789CVMZA1TF7" type="measure" ulx="772" uly="785" lrx="1365" lry="1325"/>
-            <zone xml:id="zone_01J46HFA02HX2VJMFQ22TN7TM8" type="measure" ulx="1302" uly="781" lrx="1883" lry="1336"/>
-            <zone xml:id="zone_01J46HFA02RH62JF0BHN9HPJTM" type="measure" ulx="246" uly="1326" lrx="862" lry="1851"/>
+            <zone xml:id="zone_01J46HFA00TB7MQR9GEZ8RHR27" lrx="872" lry="778" type="measure" ulx="255" uly="278"/>
+            <zone xml:id="zone_01J46HFA00ZRAG64HV3N5V627Z" lrx="1510" lry="790" type="measure" ulx="852" uly="241"/>
+            <zone xml:id="zone_01J46HFA00B6DNRH8WCH43RN7N" lrx="1813" lry="786" type="measure" ulx="1319" uly="246"/>
+            <zone xml:id="zone_01J46HFA01HEGE47P20Y3A7K16" lrx="833" lry="1318" type="measure" ulx="227" uly="797"/>
+            <zone xml:id="zone_01J46HFA01D3CZJ4468R617FET" lrx="1359" lry="1309" type="measure" ulx="781" uly="787"/>
+            <zone xml:id="zone_01J46HFA01W1B3HJD857B3RWNZ" lrx="1884" lry="1310" type="measure" ulx="1303" uly="801"/>
+            <zone xml:id="zone_01J46HFA02SEFT87FVCVP98R7V" lrx="1404" lry="1901" type="measure" ulx="801" uly="1352"/>
+            <zone xml:id="zone_01J46HFA02XBKQ789CVMZA1TF7" lrx="1725" lry="1889" type="measure" ulx="1366" uly="1347"/>
+            <zone xml:id="zone_01J46HFA02HX2VJMFQ22TN7TM8" lrx="1823" lry="1848" type="measure" ulx="1698" uly="1335"/>
+            <zone xml:id="zone_01J46HFA02RH62JF0BHN9HPJTM" lrx="1964" lry="1851" type="measure" ulx="1790" uly="1326"/>
             <zone xml:id="zone_01J46HFA03WH9VJFSRQW611QB6" type="measure" ulx="1340" uly="1351" lrx="1734" lry="1872"/>
             <zone xml:id="zone_01J46HFA032V16PC7A2YPY6CHX" type="measure" ulx="1671" uly="1346" lrx="1835" lry="1878"/>
             <zone xml:id="zone_01J46HFA03XH0R6ZT5Q5KA84AA" type="measure" ulx="1776" uly="1344" lrx="1883" lry="1873"/>
