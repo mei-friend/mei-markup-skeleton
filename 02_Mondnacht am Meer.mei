@@ -7,8 +7,8 @@
          <titleStmt>
             <title>Mondnacht am Meer</title>
             <respStmt>
-               <persName role="composer" auth="GND" auth.uri="https://d-nb.info/gnd/" codedval="117758817">Ludwig Baumann</persName>
-               <persName role="encoder" auth="GND" auth.uri="https://d-nb.info/gnd/" codedval="1229022201">Anna Plaksin</persName>
+               <persName xml:id="lb" role="composer" auth="GND" auth.uri="https://d-nb.info/gnd/" codedval="117758817">Ludwig Baumann</persName>
+               <persName xml:id="ap" role="encoder" auth="GND" auth.uri="https://d-nb.info/gnd/" codedval="1229022201">Anna Plaksin</persName>
             </respStmt>
          </titleStmt>
          <pubStmt>
@@ -17,7 +17,7 @@
       </fileDesc>
       <encodingDesc xml:id="eh7ebg01">
          <appInfo xml:id="a3tff0c1">
-            <application xml:id="a03mgbf" enddate="2024-08-01T16:21:43" startdate="2024-08-01T10:49:53" version="1.0.14">
+            <application xml:id="a03mgbf" enddate="2024-09-06T11:28:19" startdate="2024-08-01T10:49:53" version="1.1.7">
                <name xml:id="nbtjpo81">mei-friend</name>
                <p xml:id="p24vfb71">First edit by mei-friend 1.1.5, 14 May 2024.</p>
             </application>
@@ -170,10 +170,10 @@
                      <tie xml:id="t1gbsvli" endid="#n1r17she" startid="#nu7kj5d"/>
                      <dynam xml:id="d1i11tv7" label="p" startid="#c1elbu9q">p</dynam>
                      <tie xml:id="t1tjolge" endid="#n17cvxw6" startid="#nir2ptj"/>
-                     <tie xml:id="tyvlosn" endid="#n1d9o71v" startid="#n1mn7vd5"/>
+                     <tie xml:id="tyvlosn" curvedir="above" endid="#n1d9o71v" startid="#n1mn7vd5"/>
                      <tie xml:id="tcawp6c" endid="#nijgj76" startid="#nmq9iwb"/>
                      <tie xml:id="t9vd16l" endid="#num8rai" startid="#n17cvxw6"/>
-                     <tie xml:id="tacx3pl" endid="#n1jeiovi" startid="#n1d9o71v"/>
+                     <tie xml:id="tacx3pl" curvedir="above" endid="#n1jeiovi" startid="#n1d9o71v"/>
                      <tie xml:id="t1dpsx55" endid="#n8tx41z" startid="#nijgj76"/>
                   </measure>
                   <measure xml:id="mciyg65" facs="#zone_01J46HF9ZKYZJT3PQEPV3YY55E" n="2">
@@ -242,10 +242,10 @@
                      <slur xml:id="s1m4r02i" endid="#n188eb0t" startid="#n1lx420s"/>
                      <tie xml:id="t1dqw0b9" endid="#nools6s" startid="#n1pjdybr"/>
                      <tie xml:id="t10j2ybu" endid="#n12e2cy1" startid="#num8rai"/>
-                     <tie xml:id="t1uo486g" endid="#n1qhjjdf" startid="#n1jeiovi"/>
+                     <tie xml:id="t1uo486g" curvedir="above" endid="#n1qhjjdf" startid="#n1jeiovi"/>
                      <tie xml:id="t84i457" endid="#nblwso6" startid="#n8tx41z"/>
                      <tie xml:id="t13vl6fz" endid="#n1l05wtn" startid="#n12e2cy1"/>
-                     <tie xml:id="t1e0uwow" endid="#n39kd5z" startid="#n1qhjjdf"/>
+                     <tie xml:id="t1e0uwow" curvedir="above" endid="#n39kd5z" startid="#n1qhjjdf"/>
                      <tie xml:id="t7qrwj9" endid="#ndezl1q" startid="#nblwso6"/>
                   </measure>
                   <sb xml:id="sda7c4s1" type="mscore-manual"/>
