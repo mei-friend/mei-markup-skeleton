@@ -17,7 +17,7 @@
       </fileDesc>
       <encodingDesc xml:id="eh7ebg01">
          <appInfo xml:id="a3tff0c1">
-            <application xml:id="a03mgbf" enddate="2024-09-23T11:32:59" startdate="2024-08-01T10:49:53" version="1.1.7">
+            <application xml:id="a03mgbf" enddate="2024-09-23T11:44:40" startdate="2024-08-01T10:49:53" version="1.1.7">
                <name xml:id="nbtjpo81">mei-friend</name>
                <p xml:id="p24vfb71">First edit by mei-friend 1.1.5, 14 May 2024.</p>
             </application>
@@ -327,7 +327,9 @@
                      <tie xml:id="t1v5qmjp" curvedir="above" endid="#n14tw1uj" startid="#n39kd5z"/>
                      <tie xml:id="tffn0qh" endid="#nt7fk6g" startid="#ndezl1q"/>
                      <tie xml:id="taoiwow" endid="#n1du3lgt" startid="#n1gbkjgr"/>
-                     <tie xml:id="tzwd2kt" endid="#n1gtjub4" startid="#n14tw1uj"/>
+                     <supplied xml:id="smxne0g" resp="#ap">
+                        <tie xml:id="tzwd2kt" endid="#n1gtjub4" startid="#n14tw1uj"/>
+                     </supplied>
                      <tie xml:id="t1uwp6tb" endid="#ntimepu" startid="#nt7fk6g"/>
                   </measure>
                   <measure xml:id="mb72am6" facs="#zone_01J46HF9ZN4BHRRQ8Z5E760RJ9" n="4">
@@ -405,10 +407,14 @@
                      <slur xml:id="s1henhy9" endid="#nw5k4t5" startid="#n6hptho"/>
                      <tie xml:id="tjtfotd" endid="#n6w9z12" startid="#n9ihgxv"/>
                      <tie xml:id="t23osw7" endid="#n1cvay8j" startid="#n1du3lgt"/>
-                     <tie xml:id="tl9on1x" curvedir="below" endid="#nwxxqga" startid="#n1gtjub4"/>
+                     <supplied xml:id="shyttoe" resp="#ap">
+                        <tie xml:id="tl9on1x" curvedir="below" endid="#nwxxqga" startid="#n1gtjub4"/>
+                     </supplied>
                      <tie xml:id="t1i8b5pc" endid="#nfz4h5c" startid="#ntimepu"/>
                      <tie xml:id="t57003j" endid="#ndy5eda" startid="#n1cvay8j"/>
-                     <tie xml:id="tiyvc9x" endid="#n1innfl6" startid="#nwxxqga"/>
+                     <supplied xml:id="sygkqgc1" resp="#ap">
+                        <tie xml:id="tiyvc9x" endid="#n1innfl6" startid="#nwxxqga"/>
+                     </supplied>
                      <tie xml:id="t1foib1x" endid="#nzhxhsr" startid="#nfz4h5c"/>
                   </measure>
                   <sb xml:id="s4hlmyz2" type="mscore-manual"/>
@@ -491,7 +497,9 @@
                      <slur xml:id="s61caph" endid="#n1s0kym5" startid="#n1jchwvo"/>
                      <tie xml:id="t1cdy43z" endid="#neumimg" startid="#ni83xlm"/>
                      <tie xml:id="t3thzbr" endid="#n1vtt6c4" startid="#ndy5eda"/>
-                     <tie xml:id="tspf6r2" endid="#n19mwl5b" startid="#n1innfl6"/>
+                     <supplied xml:id="sr0lfx6" resp="#ap">
+                        <tie xml:id="tspf6r2" endid="#n19mwl5b" startid="#n1innfl6"/>
+                     </supplied>
                      <tie xml:id="t1qgrb2y" endid="#n25n598" startid="#nzhxhsr"/>
                   </measure>
                   <measure xml:id="meay5fl" facs="#zone_01J46HF9ZQ6NDC7E0QTJYM9W47" n="6">
@@ -840,7 +848,9 @@
                      <tie xml:id="tv3xfzd" endid="#nby00ax" startid="#n53twh3"/>
                      <slur xml:id="sly3uy1" curvedir="above" endid="#n126jqi3" startid="#n14dspkj"/>
                      <slur xml:id="srq757s" curvedir="above" endid="#n107zcul" startid="#n163z36m"/>
-                     <slur xml:id="st4r6yf" curvedir="below" endid="#n1s7u2og" startid="#nrtm7tz"/>
+                     <reg xml:id="rhvc9g1" resp="#ap">
+                        <slur xml:id="st4r6yf" curvedir="below" endid="#n1s7u2og" startid="#nrtm7tz"/>
+                     </reg>
                      <tie xml:id="t9f1x3y" endid="#nsgabft" startid="#ng23l4u"/>
                      <tie xml:id="t1659bp1" endid="#n13rn5c9" startid="#n1l173k5"/>
                   </measure>
@@ -1392,8 +1402,12 @@
                            </chord>
                         </layer>
                      </staff>
-                     <hairpin xml:id="h11a7d26" endid="#ry0nwwd" form="cres" place="above" startid="#n1hr1sst"/>
-                     <hairpin xml:id="h1dtw9kp" endid="#n4ntfkh" form="cres" place="above" startid="#n1oupewt"/>
+                     <add xml:id="ac0tpfs1" resp="#lb">
+                        <hairpin xml:id="h11a7d26" endid="#ry0nwwd" form="cres" place="above" startid="#n1hr1sst"/>
+                     </add>
+                     <add xml:id="apytsqk1" resp="#lb">
+                        <hairpin xml:id="h1dtw9kp" endid="#n4ntfkh" form="cres" place="above" startid="#n1oupewt"/>
+                     </add>
                      <tie xml:id="tj27cq9" endid="#n16a7qw2" startid="#n1f3g31z"/>
                      <tie xml:id="teoijmu" endid="#nzjq5z0" startid="#n1nqawpw"/>
                      <tie xml:id="tv2fsg31" endid="#n72qc9u" staff="1" startid="#n1hr1sst"/>
@@ -1468,9 +1482,13 @@
                            </chord>
                         </layer>
                      </staff>
-                     <dynam xml:id="drwkbr7" label="pp" place="above" startid="#nhitqfb">pp</dynam>
+                     <add xml:id="ajjl33s1" resp="#lb">
+                        <dynam xml:id="drwkbr7" label="pp" place="above" startid="#nhitqfb">pp</dynam>
+                     </add>
                      <tie xml:id="t1s93rsf" endid="#n1qwf4rw" startid="#n1bcbu0x"/>
-                     <dynam xml:id="d8owbvq" label="pp" startid="#n1gut8n5">pp</dynam>
+                     <add xml:id="a158tsp2" resp="#lb">
+                        <dynam xml:id="d8owbvq" label="pp" startid="#n1gut8n5">pp</dynam>
+                     </add>
                      <slur xml:id="s1ui84i1" endid="#nltpitx" startid="#n19slftk"/>
                      <tie xml:id="t155tuhi" endid="#n1jpyq85" startid="#n1fgtcet"/>
                      <tie xml:id="tc443cu" endid="#nilyegf" startid="#nyey9pz"/>
@@ -1837,9 +1855,11 @@
                            </beam>
                         </layer>
                         <layer xml:id="m20s2l2" n="2">
-                           <note xml:id="n1tw3vtl" dots="1" dur="4" oct="3" pname="b" stem.dir="down"/>
-                           <note xml:id="n1qs669n" dots="1" dur="4" oct="3" pname="b" stem.dir="down"/>
-                           <note xml:id="nsa2k88" dots="1" dur="4" oct="3" pname="b" stem.dir="down"/>
+                           <reg xml:id="rse2ceh" resp="#ap">
+                              <note xml:id="n1tw3vtl" dots="1" dur="4" oct="3" pname="b" stem.dir="down"/>
+                              <note xml:id="n1qs669n" dots="1" dur="4" oct="3" pname="b" stem.dir="down"/>
+                              <note xml:id="nsa2k88" dots="1" dur="4" oct="3" pname="b" stem.dir="down"/>
+                           </reg>
                         </layer>
                         <layer xml:id="m20s2l3" n="3">
                            <rest xml:id="r1fm8o2h" dots="1" dur="4"/>
@@ -1870,7 +1890,9 @@
                      <tie xml:id="t1rcl5z0" endid="#n14832q1" startid="#n4v4ni3"/>
                      <tie xml:id="tc09wrn2" endid="#n1ywo29t" startid="#n14832q1"/>
                      <tie xml:id="tj98g84" endid="#n1ywo29t" startid="#n12f30kg"/>
-                     <slur xml:id="stk1hly1" endid="#nkacpu5" staff="2" startid="#n1ntz5o0"/>
+                     <reg xml:id="rjbwm3c1" resp="#ap">
+                        <slur xml:id="stk1hly1" endid="#nkacpu5" staff="2" startid="#n1ntz5o0"/>
+                     </reg>
                   </measure>
                   <measure xml:id="mgl6fh3" facs="#zone_01J46HF9ZYMV5A79A8DBD2FQRZ" n="21">
                      <staff xml:id="m21s1" n="1">
@@ -1933,9 +1955,11 @@
                            </beam>
                         </layer>
                         <layer xml:id="m21s2l2" n="2">
-                           <note xml:id="n1phesi5" dots="1" dur="4" oct="3" pname="b" stem.dir="down"/>
-                           <note xml:id="n1oi4me7" dots="1" dur="4" oct="3" pname="b" stem.dir="down"/>
-                           <note xml:id="n1pd3vm4" dots="1" dur="4" oct="3" pname="b" stem.dir="down"/>
+                           <reg xml:id="rzgwuld" resp="#ap">
+                              <note xml:id="n1phesi5" dots="1" dur="4" oct="3" pname="b" stem.dir="down"/>
+                              <note xml:id="n1oi4me7" dots="1" dur="4" oct="3" pname="b" stem.dir="down"/>
+                              <note xml:id="n1pd3vm4" dots="1" dur="4" oct="3" pname="b" stem.dir="down"/>
+                           </reg>
                         </layer>
                         <layer xml:id="m21s2l3" n="3">
                            <note xml:id="n77vp4m" dur="8" grace="unacc" oct="5" pname="e" stem.dir="up">
@@ -1961,7 +1985,9 @@
                         </layer>
                      </staff>
                      <tie xml:id="t1nvx30" endid="#n1n8ghug" startid="#n1scwee8"/>
-                     <slur xml:id="sqm9n6l" curvedir="above" endid="#n8l9225" startid="#n77vp4m"/>
+                     <reg xml:id="r1hmm9j2" resp="#ap">
+                        <slur xml:id="sqm9n6l" curvedir="above" endid="#n8l9225" startid="#n77vp4m"/>
+                     </reg>
                      <tie xml:id="tm9o4f8" endid="#ngq3q5m" startid="#n1ywo29t"/>
                      <tie xml:id="t1h9vjmx" endid="#ngdo0h9" startid="#n1oyesyj"/>
                   </measure>
@@ -2034,9 +2060,11 @@
                            </beam>
                         </layer>
                         <layer xml:id="m22s2l2" n="2">
-                           <note xml:id="nbinjm7" dots="1" dur="4" oct="3" pname="b" stem.dir="down"/>
-                           <note xml:id="n1rylh1o" dots="1" dur="4" oct="3" pname="b" stem.dir="down"/>
-                           <note xml:id="nhf0mi3" dots="1" dur="4" oct="3" pname="b" stem.dir="down"/>
+                           <reg xml:id="rgaaw16" resp="#ap">
+                              <note xml:id="nbinjm7" dots="1" dur="4" oct="3" pname="b" stem.dir="down"/>
+                              <note xml:id="n1rylh1o" dots="1" dur="4" oct="3" pname="b" stem.dir="down"/>
+                              <note xml:id="nhf0mi3" dots="1" dur="4" oct="3" pname="b" stem.dir="down"/>
+                           </reg>
                         </layer>
                         <layer xml:id="m22s2l3" n="3">
                            <rest xml:id="r1ynb1he" dots="1" dur="4"/>
@@ -2063,7 +2091,9 @@
                      </staff>
                      <slur xml:id="s1bh4ftw" curvedir="above" endid="#n1wjcnkl" startid="#nkqson8"/>
                      <dir xml:id="ddum8iq" place="above" startid="#n1q7syyn" type="mscore-playtech-annotation">l H</dir>
-                     <slur xml:id="ssn7lug" curvedir="above" endid="#n1tv2u5e" startid="#n5ullo0"/>
+                     <reg xml:id="rka41db" resp="#ap">
+                        <slur xml:id="ssn7lug" curvedir="above" endid="#n1tv2u5e" startid="#n5ullo0"/>
+                     </reg>
                      <tie xml:id="tf8urmc" endid="#nyrqxuh" startid="#n1voshpv"/>
                      <tie xml:id="t7bazdj" endid="#nfexszs" startid="#n1dp9iv2"/>
                   </measure>
@@ -2105,15 +2135,17 @@
                            </beam>
                         </layer>
                         <layer xml:id="m23s2l2" n="2">
-                           <note xml:id="naut2iv" dots="1" dur="4" oct="4" pname="d" stem.dir="down">
-                              <accid xml:id="aw8a4w1" accid.ges="s"/>
-                           </note>
-                           <note xml:id="ndhnxia" dots="1" dur="4" oct="4" pname="d" stem.dir="down">
-                              <accid xml:id="awfobyb" accid.ges="s"/>
-                           </note>
-                           <note xml:id="nywzu9e" dots="1" dur="4" oct="4" pname="d" stem.dir="down">
-                              <accid xml:id="aj22qq71" accid.ges="s"/>
-                           </note>
+                           <reg xml:id="rjz7xxi1" resp="#ap">
+                              <note xml:id="naut2iv" dots="1" dur="4" oct="4" pname="d" stem.dir="down">
+                                 <accid xml:id="aw8a4w1" accid.ges="s"/>
+                              </note>
+                              <note xml:id="ndhnxia" dots="1" dur="4" oct="4" pname="d" stem.dir="down">
+                                 <accid xml:id="awfobyb" accid.ges="s"/>
+                              </note>
+                              <note xml:id="nywzu9e" dots="1" dur="4" oct="4" pname="d" stem.dir="down">
+                                 <accid xml:id="aj22qq71" accid.ges="s"/>
+                              </note>
+                           </reg>
                         </layer>
                         <layer xml:id="m23s2l3" n="3">
                            <note xml:id="ngkggly" dur="8" grace="unacc" oct="5" pname="a">
@@ -2135,9 +2167,14 @@
                         </layer>
                      </staff>
                      <tie xml:id="t14t16xn" endid="#nomxtdi" startid="#n19wxum9"/>
-                     <dir xml:id="d10ctwb6" place="above" startid="#ndhnxia">rit.</dir>
+                     <add xml:id="axkvtpq2" resp="#lb">
+                        <dir xml:id="d10ctwb6" place="above" startid="#ndhnxia">rit.</dir>
+                     </add>
                      <tie xml:id="tfhazzd" endid="#n3qqve0" startid="#nii3q1k"/>
                      <tie xml:id="tkvbe3b" endid="#nrhngsz" startid="#n11ca9gc"/>
+                     <reg xml:id="rojnq6v1" resp="#ap">
+                        <slur xml:id="swwfkvx2" endid="#ns0jubr" staff="2" startid="#ngkggly"/>
+                     </reg>
                   </measure>
                   <measure xml:id="m1p72meh" facs="#zone_01J46HF9ZZ5N5S9MCY0BP69SME" n="24">
                      <staff xml:id="m24s1" n="1">
@@ -2283,7 +2320,9 @@
                      <tie xml:id="tngnccy" endid="#n1xt7ezy" startid="#n1hgu8eo"/>
                      <tie xml:id="t1ih3unh" endid="#nur10um" startid="#n19o0nb0"/>
                      <tie xml:id="t1eg3e4i" endid="#njfiwwn" startid="#nwo5yl8"/>
-                     <tie xml:id="trc1spl" endid="#nmvki2b" startid="#n14fvys7"/>
+                     <supplied xml:id="s93iqv7" resp="#ap">
+                        <tie xml:id="trc1spl" endid="#nmvki2b" startid="#n14fvys7"/>
+                     </supplied>
                      <tie xml:id="t2lb4g2" endid="#nfp35tk" startid="#n1fyd3yv"/>
                   </measure>
                   <measure xml:id="mvkzkuj" facs="#zone_01J46HF9ZZE1DGZ4QJKYNNXCDN" n="26">
@@ -2359,7 +2398,9 @@
                      </staff>
                      <tie xml:id="t16oytqa" endid="#n1l6z7nu" startid="#n1tiik41"/>
                      <tie xml:id="t188902x" endid="#nqiht4a" startid="#nllc4kr"/>
-                     <tie xml:id="t1foqeqp" endid="#n19zgw4p" startid="#njai61l"/>
+                     <supplied xml:id="sbxiduy1" resp="#ap">
+                        <tie xml:id="t1foqeqp" endid="#n19zgw4p" startid="#njai61l"/>
+                     </supplied>
                      <tie xml:id="tzf1rrz" endid="#na2f51f" startid="#nu4muy9"/>
                   </measure>
                   <measure xml:id="mc6wsbq" facs="#zone_01J46HF9ZZXXNA3Q7PV5N41TBT" n="27">
@@ -2440,7 +2481,9 @@
                      <tie xml:id="trrttd" endid="#n16yn12l" startid="#n1dyy0gc"/>
                      <tie xml:id="t12m7gpt" endid="#nq8zv03" startid="#n1nodpfv"/>
                      <tie xml:id="t1ngllb2" endid="#nx9jq1f" startid="#n17t7pc"/>
-                     <tie xml:id="t1bfsmgr" endid="#nmde01a" startid="#n11xs4da"/>
+                     <supplied xml:id="sjjnwcd" resp="#ap">
+                        <tie xml:id="t1bfsmgr" endid="#nmde01a" startid="#n11xs4da"/>
+                     </supplied>
                      <tie xml:id="t1u9imkm" endid="#n29fddj" startid="#n2q9ghn"/>
                      <slur xml:id="s1wbj6q1" endid="#ns6bkhp" staff="2" startid="#nmkauuk"/>
                   </measure>
@@ -3383,9 +3426,19 @@
                            </note>
                         </layer>
                         <layer xml:id="m39s3l2" n="2">
-                           <clef xml:id="chmo9ij2" line="4" shape="F" staff="3" layer="2" visible="false"/>
-                           <note xml:id="n4hvsz3" dots="1" dur="2" oct="2" pname="e"/>
-                           <note xml:id="n15zgltp" dots="1" dur="4" oct="2" pname="e"/>
+                           <choice xml:id="chb7vgg" corresp="#c3azw5t2" resp="#ap">
+                              <orig xml:id="o5846xo2">
+                                  <clef xml:id="chmo9ij2" line="4" shape="F" staff="3" layer="2" visible="false"/>
+                                 <note xml:id="n4hvsz3" dots="1" dur="2" oct="2" pname="e"/>
+                                 <note xml:id="n15zgltp" dots="1" dur="4" oct="2" pname="e"/>
+                              </orig>
+                              <reg xml:id="r66493x1">
+                                 <!--change content of alternative reading-->
+                                 <clef xml:id="cuti48p2" line="4" shape="F" staff="3"/>
+                                 <note xml:id="note-lde8cr1" dots="1" dur="2" oct="2" pname="e"/>
+                                 <note xml:id="note-zrgotg" dots="1" dur="4" oct="2" pname="e"/>
+                              </reg>
+                           </choice>
                         </layer>
                      </staff>
                      <tie xml:id="t16y46ub" endid="#n4mcxzy" startid="#n5fvfpq"/>
@@ -3398,7 +3451,15 @@
                      <tie xml:id="t13r53u8" endid="#nl051j6" startid="#n1l5vsho"/>
                      <tie xml:id="t147qttb" endid="#n1qf39ts" startid="#n1npfncr"/>
                      <tie xml:id="t13agtgz" endid="#ni4v4j3" startid="#n1qf39ts"/>
-                     <tie xml:id="t1t3nt5t" endid="#n15zgltp" startid="#n4hvsz3"/>
+                     <choice xml:id="c3azw5t2" corresp="#chb7vgg" resp="#ap">
+                        <orig xml:id="o7c4vqb1">
+                           <tie xml:id="t1t3nt5t" endid="#n15zgltp" startid="#n4hvsz3"/>
+                        </orig>
+                        <reg xml:id="r9288cg1">
+                           <!--change content of alternative reading-->
+                           <tie xml:id="tie-kx00y01" endid="#note-zrgotg" startid="#note-lde8cr1"/>
+                        </reg>
+                     </choice>
                      <tie xml:id="t1lg8i1d" endid="#nimgv3m" startid="#n15zgltp"/>
                   </measure>
                   <measure xml:id="m6vazz4" facs="#zone_01J46HFA02RH62JF0BHN9HPJTM" n="40" right="end">
