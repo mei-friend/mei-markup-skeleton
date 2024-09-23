@@ -17,7 +17,7 @@
       </fileDesc>
       <encodingDesc xml:id="eh7ebg01">
          <appInfo xml:id="a3tff0c1">
-            <application xml:id="a03mgbf" enddate="2024-09-23T11:31:58" startdate="2024-08-01T10:49:53" version="1.1.7">
+            <application xml:id="a03mgbf" enddate="2024-09-23T11:48:19" startdate="2024-08-01T10:49:53" version="1.1.7">
                <name xml:id="nbtjpo81">mei-friend</name>
                <p xml:id="p24vfb71">First edit by mei-friend 1.1.5, 14 May 2024.</p>
             </application>
@@ -2629,7 +2629,7 @@
                            </bTrem>
                         </layer>
                      </staff>
-                     <tie xml:id="tbkxrjd" endid="#nqn879y" startid="#no3lmsb"/>
+                     <tie xml:id="tbkxrjd" curvedir="above" endid="#nqn879y" startid="#no3lmsb"/>
                   </measure>
                   <measure xml:id="m1wz0715" facs="#zone_01J46HFA00BH5SHJHJNN00KNMM" n="30">
                      <staff xml:id="m30s1" n="1">
@@ -2694,7 +2694,7 @@
                      </staff>
                      <staff xml:id="m30s3" n="3">
                         <layer xml:id="m30s3l1" n="1">
-                           <note xml:id="nsmoz1y" dur="8" grace="unacc" oct="3" pname="d">
+                           <note xml:id="nsmoz1y" dur="8" grace="unacc" oct="3" pname="d" stem.dir="down">
                               <accid xml:id="ahk7bky1" accid="s"/>
                            </note>
                            <note xml:id="nzbksff" dur="4" oct="3" pname="e">
@@ -2903,7 +2903,7 @@
                      <fermata xml:id="f18zuwdp" startid="#n1m2xuk7"/>
                      <fermata xml:id="fmqrcr2" startid="#nohcwli"/>
                      <dir xml:id="d1y3t4pe" place="above" startid="#ncxfo9x">molto cresc</dir>
-                     <tie xml:id="tvnveab" curvedir="above" endid="#n1tvjw1o" startid="#nk10y4y"/>
+                     <tie xml:id="tvnveab" curvedir="below" endid="#n1tvjw1o" startid="#nk10y4y"/>
                      <tie xml:id="tvsgvo4" curvedir="above" endid="#ndoloq9" startid="#n1kmarj9"/>
                      <tie xml:id="ti58aji" curvedir="above" endid="#n1owqnr" startid="#n18y2nkl"/>
                      <tie xml:id="t1rvb1t4" curvedir="above" endid="#nxkx681" startid="#n1rtayiq"/>
