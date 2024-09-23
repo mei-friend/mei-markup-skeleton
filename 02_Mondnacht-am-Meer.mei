@@ -17,7 +17,7 @@
       </fileDesc>
       <encodingDesc xml:id="eh7ebg01">
          <appInfo xml:id="a3tff0c1">
-            <application xml:id="a03mgbf" enddate="2024-09-06T11:28:19" startdate="2024-08-01T10:49:53" version="1.1.7">
+            <application xml:id="a03mgbf" enddate="2024-09-23T11:13:26" startdate="2024-08-01T10:49:53" version="1.1.7">
                <name xml:id="nbtjpo81">mei-friend</name>
                <p xml:id="p24vfb71">First edit by mei-friend 1.1.5, 14 May 2024.</p>
             </application>
@@ -165,7 +165,7 @@
                         </layer>
                      </staff>
                      <dynam xml:id="d6iolw9" label="p" startid="#n1rjzmja">p</dynam>
-                     <slur xml:id="su279fs" endid="#n5wq0db" startid="#n1rjzmja"/>
+                     <slur xml:id="su279fs" endid="#n1dnbrb8" startid="#n1rjzmja"/>
                      <slur xml:id="s9xd78e" endid="#n1d6f7mf" startid="#nc35f0i"/>
                      <tie xml:id="t1gbsvli" endid="#n1r17she" startid="#nu7kj5d"/>
                      <dynam xml:id="d1i11tv7" label="p" startid="#c1elbu9q">p</dynam>
@@ -238,7 +238,7 @@
                         </layer>
                      </staff>
                      <dynam xml:id="dbbs1g3" label="p" place="above" startid="#nv27ck3">p</dynam>
-                     <slur xml:id="sdw8zqi" endid="#n15fxf74" startid="#npwrwu5"/>
+                     <slur xml:id="sdw8zqi" endid="#n1n7nncb" startid="#npwrwu5"/>
                      <slur xml:id="s1m4r02i" endid="#n188eb0t" startid="#n1lx420s"/>
                      <tie xml:id="t1dqw0b9" endid="#nools6s" startid="#n1pjdybr"/>
                      <tie xml:id="t10j2ybu" endid="#n12e2cy1" startid="#num8rai"/>
@@ -320,7 +320,7 @@
                         </layer>
                      </staff>
                      <tie xml:id="t1vw4jsr" endid="#n1tuno5y" startid="#n1j25p3m"/>
-                     <slur xml:id="s12zuw3" endid="#n1x64cjl" startid="#n18amjp7"/>
+                     <slur xml:id="s12zuw3" endid="#nt2h05f" startid="#n18amjp7"/>
                      <slur xml:id="smsvukh" endid="#n182z58d" startid="#nt9bbse"/>
                      <tie xml:id="tevwvsd" endid="#n1y7ru1z" startid="#n1jw5r4u"/>
                      <tie xml:id="t10yb9zc" endid="#n1gbkjgr" startid="#n1l05wtn"/>
@@ -401,11 +401,11 @@
                            </chord>
                         </layer>
                      </staff>
-                     <slur xml:id="s1pmh2g5" endid="#nb2tjwb" startid="#n1a44qai"/>
+                     <slur xml:id="s1pmh2g5" endid="#nmqfu0m" startid="#n1a44qai"/>
                      <slur xml:id="s1henhy9" endid="#nw5k4t5" startid="#n6hptho"/>
                      <tie xml:id="tjtfotd" endid="#n6w9z12" startid="#n9ihgxv"/>
                      <tie xml:id="t23osw7" endid="#n1cvay8j" startid="#n1du3lgt"/>
-                     <tie xml:id="tl9on1x" curvedir="above" endid="#nwxxqga" startid="#n1gtjub4"/>
+                     <tie xml:id="tl9on1x" curvedir="below" endid="#nwxxqga" startid="#n1gtjub4"/>
                      <tie xml:id="t1i8b5pc" endid="#nfz4h5c" startid="#ntimepu"/>
                      <tie xml:id="t57003j" endid="#ndy5eda" startid="#n1cvay8j"/>
                      <tie xml:id="tiyvc9x" endid="#n1innfl6" startid="#nwxxqga"/>
@@ -488,7 +488,7 @@
                         </layer>
                      </staff>
                      <tie xml:id="t15sd7ur" endid="#n13vx0o8" startid="#n1ve4ui6"/>
-                     <slur xml:id="s61caph" endid="#n42fe8w" startid="#n1jchwvo"/>
+                     <slur xml:id="s61caph" endid="#n1s0kym5" startid="#n1jchwvo"/>
                      <tie xml:id="t1cdy43z" endid="#neumimg" startid="#ni83xlm"/>
                      <tie xml:id="t3thzbr" endid="#n1vtt6c4" startid="#ndy5eda"/>
                      <tie xml:id="tspf6r2" endid="#n19mwl5b" startid="#n1innfl6"/>
@@ -744,6 +744,9 @@
                      </staff>
                      <staff xml:id="m8s3" n="3">
                         <layer xml:id="m8s3l1" n="1">
+                           <note xml:id="noy34fi2" dur="8" oct="2" pname="e" stem.dir="down" grace="unacc">
+                              <accid xml:id="al497ts2" accid="n"/>
+                           </note>
                            <note xml:id="nimr86z" dur="4" oct="3" pname="e">
                               <accid xml:id="af0jo8y2" accid="n"/>
                            </note>
@@ -897,7 +900,7 @@
                            </note>
                         </layer>
                         <layer xml:id="m10s3l2" n="2">
-                           <chord xml:id="c1rs6rbv" dots="1" dur="2">
+                           <chord xml:id="c1rs6rbv" dots="1" dur="2" stem.dir="up">
                               <note xml:id="n19yuz1y" oct="2" pname="c">
                                  <accid xml:id="a7s9czn2" accid.ges="s"/>
                               </note>
@@ -2199,10 +2202,10 @@
                      </staff>
                      <tie xml:id="t11u85ye" endid="#nbz4qk" startid="#n1nwct95"/>
                      <tie xml:id="tml1fr8" endid="#n1d15tzo" startid="#nic20ky"/>
-                     <tie xml:id="te661fr" endid="#na6825m" startid="#n1k8s3or"/>
+                     <tie xml:id="te661fr" curvedir="above" endid="#na6825m" startid="#n1k8s3or"/>
                      <tie xml:id="tpaos9x" endid="#n16hu1c3" startid="#n17h949c"/>
                      <tie xml:id="t1wme54g" endid="#nwo5yl8" startid="#n1d15tzo"/>
-                     <tie xml:id="t7vtdbj" endid="#n14fvys7" startid="#na6825m"/>
+                     <tie xml:id="t7vtdbj" curvedir="above" endid="#n14fvys7" startid="#na6825m"/>
                      <tie xml:id="tc1jp8b" endid="#n1fyd3yv" startid="#n16hu1c3"/>
                      <slur xml:id="srvz8so2" endid="#n1q4kthj" staff="2" startid="#nofyrju"/>
                   </measure>
@@ -2838,7 +2841,7 @@
                         <layer xml:id="m32s2l1" n="1">
                            <rest xml:id="r191g38n" dur="8" type="mscore-beam-none"/>
                            <beam xml:id="bdhdklf1">
-                              <chord xml:id="cmhg023" dur="8">
+                              <chord xml:id="cmhg023" dur="8" stem.dir="down">
                                  <note xml:id="nr48v1r" oct="4" pname="e"/>
                                  <note xml:id="no61k5i" oct="4" pname="g">
                                     <accid xml:id="aryf0ca1" accid="n"/>
@@ -2848,7 +2851,7 @@
                                  </note>
                                  <note xml:id="nh4nvn3" oct="5" pname="e"/>
                               </chord>
-                              <chord xml:id="c1ilmh8b" dur="8">
+                              <chord xml:id="c1ilmh8b" dur="8" stem.dir="down">
                                  <note xml:id="n1k1341n" oct="4" pname="e"/>
                                  <note xml:id="n5icnlm" oct="4" pname="g">
                                     <accid xml:id="afik8sz1" accid="n"/>
@@ -2859,7 +2862,7 @@
                                  <note xml:id="n1mjouo5" oct="5" pname="e"/>
                               </chord>
                            </beam>
-                           <chord xml:id="csog4c" dots="1" dur="4">
+                           <chord xml:id="csog4c" dots="1" dur="4" stem.dir="down">
                               <note xml:id="nk10y4y" oct="4" pname="e"/>
                               <note xml:id="n1kmarj9" oct="4" pname="g"/>
                               <note xml:id="n18y2nkl" oct="4" pname="a">
@@ -2867,7 +2870,7 @@
                               </note>
                               <note xml:id="n1rtayiq" oct="5" pname="e"/>
                            </chord>
-                           <chord xml:id="ctocyfm" dur="4">
+                           <chord xml:id="ctocyfm" dur="4" stem.dir="down">
                               <note xml:id="n1tvjw1o" oct="4" pname="e"/>
                               <note xml:id="ndoloq9" oct="4" pname="g"/>
                               <note xml:id="n1owqnr" oct="4" pname="a">
@@ -2899,11 +2902,11 @@
                      <tie xml:id="tixmfgt" endid="#n1m2xuk7" startid="#n1gqbpwt"/>
                      <fermata xml:id="f18zuwdp" startid="#n1m2xuk7"/>
                      <fermata xml:id="fmqrcr2" startid="#nohcwli"/>
-                     <dir xml:id="d1y3t4pe" place="above" startid="#ncxfo9x">molto crese</dir>
-                     <tie xml:id="tvnveab" endid="#n1tvjw1o" startid="#nk10y4y"/>
+                     <dir xml:id="d1y3t4pe" place="above" startid="#ncxfo9x">molto cresc</dir>
+                     <tie xml:id="tvnveab" curvedir="above" endid="#n1tvjw1o" startid="#nk10y4y"/>
                      <tie xml:id="tvsgvo4" curvedir="above" endid="#ndoloq9" startid="#n1kmarj9"/>
-                     <tie xml:id="ti58aji" endid="#n1owqnr" startid="#n18y2nkl"/>
-                     <tie xml:id="t1rvb1t4" endid="#nxkx681" startid="#n1rtayiq"/>
+                     <tie xml:id="ti58aji" curvedir="above" endid="#n1owqnr" startid="#n18y2nkl"/>
+                     <tie xml:id="t1rvb1t4" curvedir="above" endid="#nxkx681" startid="#n1rtayiq"/>
                      <fermata xml:id="f1b149vr" startid="#ctocyfm"/>
                      <tie xml:id="t149euxh" endid="#n1jz0fnc" startid="#n1uvqwsl"/>
                      <tie xml:id="tfnkdcb" endid="#n9dfy4d" startid="#nttkjcp"/>
