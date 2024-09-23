@@ -17,7 +17,7 @@
       </fileDesc>
       <encodingDesc xml:id="eh7ebg01">
          <appInfo xml:id="a3tff0c1">
-            <application xml:id="a03mgbf" enddate="2024-09-23T11:13:26" startdate="2024-08-01T10:49:53" version="1.1.7">
+            <application xml:id="a03mgbf" enddate="2024-09-23T11:31:58" startdate="2024-08-01T10:49:53" version="1.1.7">
                <name xml:id="nbtjpo81">mei-friend</name>
                <p xml:id="p24vfb71">First edit by mei-friend 1.1.5, 14 May 2024.</p>
             </application>
@@ -1767,7 +1767,7 @@
                            </chord>
                         </layer>
                      </staff>
-                     <tie xml:id="t1hzu5q7" endid="#n46znql" startid="#n1ic7zju"/>
+                     <tie xml:id="t1hzu5q7" curvedir="above" endid="#n46znql" startid="#n1ic7zju"/>
                   </measure>
                   <measure xml:id="m16qw18d" facs="#zone_01J46HF9ZX1KSY792SEJ8KKWZJ" n="20">
                      <staff xml:id="m20s1" n="1">
