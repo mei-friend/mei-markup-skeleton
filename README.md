@@ -9,6 +9,7 @@ The material includes:
 
 * `01_Mondnacht-am-Meer.mei`: an uncorrected transcription of the latest hand with measure zones
 * `02_Mondnacht-am-Meer.mei`: corrected version of the latest hand (including careful normalisation, without any markup etc.)
+* `03_Mondnacht-am-Meer_markup.mei`: version including descriptive and editorial markup (not necessarily perfect)
 * source images (see `./img`)
 * uncorrected MuseScore transcription (see `./raw`)
 * unmodified MusicXML export (see `./raw`)
