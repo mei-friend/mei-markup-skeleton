@@ -7,11 +7,12 @@ The material is based on the autograph manuscript of __"Mondnacht am Meer"__ for
 
 The material includes:
 
+* `00_Mondnacht-am-Meer.mei` unmodified MEI Basic export from MuseScore
 * `01_Mondnacht-am-Meer.mei`: an uncorrected transcription of the latest hand with measure zones
 * `02_Mondnacht-am-Meer.mei`: corrected version of the latest hand (including careful normalisation, without any markup etc.)
 * `03_Mondnacht-am-Meer_markup.mei`: version including descriptive and editorial markup (not necessarily perfect)
 * source images (see `./img`)
+* `measure_annotations.xml` raw measure zones from the [Deep Optical Measure Detector](https://measure-detector.edirom.de/)
+* `measure_annotations_with-URLs.xml` mei-friend ready measure zones with modified graphic targets
 * uncorrected MuseScore transcription (see `./raw`)
 * unmodified MusicXML export (see `./raw`)
-* unmodified MEI Basic export from MuseScore (see `./raw`)
-* `measure_annotations.xml` from the [Deep Optical Measure Detector](https://measure-detector.edirom.de/) (see `./raw`)
