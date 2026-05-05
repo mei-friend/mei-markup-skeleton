@@ -2,6 +2,8 @@
 
 This repo contains example files for use in [mei-friend](https://github.com/mei-friend/mei-friend) tutorials. The files can be used to demonstrate the last mile functionality of mei-friend, including conversion, correction, facsimiles, editorial markup and annotations.
 
+The associated slide deck is available at: <https://tinyurl.com/mei-friend-score-enrichment>
+
 The material is based on the autograph manuscript of __"Mondnacht am Meer"__ for voice and piano by Ludwig Baumann, held in the Badische Landesbibliothek Karlsruhe.  
 3 Lieder - Mus. Hs. 1324 : V, pf / Ludwig Baumann. [S.l.], 18XX. Badische Landesbibliothek Karlsruhe. , Mus. Hs. 1324 <https://nbn-resolving.org/urn:nbn:de:bsz:31-57896> / CC-BY-SA-Lizenz (4.0).
 
